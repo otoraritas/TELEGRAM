@@ -1,0 +1,10 @@
+telebot
+requests
+googlesearch-python
+socket
+os-sys
+shutil
+GitPython
+termcolor
+googletrans
+smtplib
